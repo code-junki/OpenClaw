@@ -1,0 +1,10 @@
+[
+  {"customer_id": 1, "amount": 120},
+  {"customer_id": 2, "amount": 80},
+  {"customer_id": 1, "amount": 45},
+  {"customer_id": 3, "amount": 200},
+  {"customer_id": 2, "amount": 30},
+  {"customer_id": 4, "amount": 175},
+  {"customer_id": 1, "amount": 60},
+  {"customer_id": 3, "amount": 90}
+]
